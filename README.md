@@ -41,6 +41,8 @@ Here are some ideas to get you started:
     <div style="text-align: left;"> 
     
 <div align="left">
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jungjeong802)](https://solved.ac/jungjeong802)
+    <a href="https://solved.ac/jungyun618">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jungyun618" alt="solved.ac 프로필"/>
+    </a>
     <img src="http://mazandi.herokuapp.com/api?handle=jungjeong802&theme=warm">
 </div>
