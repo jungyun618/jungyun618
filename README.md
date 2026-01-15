@@ -39,12 +39,8 @@ Here are some ideas to get you started:
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=jungyun618&bg_color=60,000000,dedede&title_color=ffffff&text_color=ffffff"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jungyun618&layout=compact&bg_color=60,000000,dedede&title_color=ffffff&text_color=ffffff"
-           /> </div> 
-    </div>
     
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jungjeong802)](https://solved.ac/jungjeong802)
-
-<img src="http://mazandi.herokuapp.com/api?handle=jungjeong802&theme=warm">
+<div align="left">
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=jungjeong802)](https://solved.ac/jungjeong802)
+    <img src="http://mazandi.herokuapp.com/api?handle=jungjeong802&theme=warm">
+</div>
