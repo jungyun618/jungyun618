@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+🎓 B.S. in Computer Science, Chungbuk National University
 <!--
 **jungyun618/jungyun618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
